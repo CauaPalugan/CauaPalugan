@@ -26,7 +26,7 @@
 <div align="center" font-size="50px">
   <a href="https://https://github.com/CauaPalugan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaPalugan&show_icons=true&theme=dark"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaPalugan&layout=compact&langs_count=7&theme=dark"> <br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaPalugan&layout=compact&langs_count=7&theme=dark"> <br>
    
 ##
 

@@ -1,4 +1,4 @@
-### Olá, Sou o Cauã Palugan Coelho, estou etudando para ser programador Front-end!
+### Olá, Sou o Cauã Palugan Coelho, estou estudando para ser programador Front-end!
 
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/99273475/153456069-ad492fe5-3ebf-4a60-b664-c9e29edeaeeb.gif" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">

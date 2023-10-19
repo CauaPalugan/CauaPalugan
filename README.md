@@ -1,12 +1,12 @@
-### Olá, Sou o Cauã Palugan Coelho, estou estudando para ser programador Front-end!
+### Bem vindo, Sou o Cauã Palugan Coelho, Sou Analista de Dados!
 
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/99273475/153456069-ad492fe5-3ebf-4a60-b664-c9e29edeaeeb.gif" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
 
-<p>💭 Estou procurando oportunidades de ingressar na área da programação! <p>
-<p>😛 Sempre buscando aprender coisas novas. <p> 
-<p>😵 Estou cursando o bacharelado em ciência da computação. <p> 
+<p>👨‍💻 Atualmente trabalho como Analista de Dados, focado em captar dados de Ecommerce! <p>
+<p>📚 Estou em busca de estudar e me capacitar cada vez mais na parte de Data Science! <p> 
+<p>💭 Estou no 4° Semestre do bacharel de ciência da computação, e nos tempos livres faço cursos na internet sobre minha área! <p> 
 
 
  <br>

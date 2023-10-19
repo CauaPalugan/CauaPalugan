@@ -6,15 +6,14 @@
 
 <p>👨‍💻 Atualmente trabalho como Analista de Dados, focado em captar dados de Ecommerce! <p>
 <p>📚 Estou em busca de estudar e me capacitar cada vez mais na parte de Data Science! <p> 
-<p>💭 Estou no 4° Semestre do bacharel de ciência da computação, e nos tempos livres faço cursos na internet sobre minha área! <p> 
+<p>💭 Estou no 4° Semestre do Bacharel de Ciência da Computação, e nos tempos livres faço cursos na internet sobre minha área! <p> 
 
 
  <br>
 
 <div style= "display: inline_block" align="left">
   <img align="center" alt="caua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="caua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="caua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="caua-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
   <img align="center" alt="caua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
@@ -30,7 +29,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaPalugan&layout=compact&langs_count=7&theme=dark"> <br>
 </div>   
 
-  ![snake gif](https://github.com/CauaPalugan/CauaPalugan/blob/output/github-contribution-grid-snake.svg) 
+  
 </div>
   
 

@@ -6,7 +6,7 @@
 
 <p>👨‍💻 Atualmente trabalho como Analista de Dados, focado em captar dados de Ecommerce! <p>
 <p>📚 Estou em busca de estudar e me capacitar cada vez mais na parte de Data Science! <p> 
-<p>💭 Estou no 4° Semestre do Bacharel de Ciência da Computação, e nos tempos livres faço cursos na internet sobre minha área! <p> 
+<p>💭 Estou no 5° Semestre do Bacharel de Ciência da Computação, e nos tempos livres faço cursos na internet sobre minha área! <p> 
 
 
  <br>
